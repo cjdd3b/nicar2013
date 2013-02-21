@@ -27,6 +27,10 @@ from sklearn import cross_validation
 ########## HELPER FUNCTIONS ##########
 
 def clean(text):
+    '''
+    A function for cleaning up the input text. Ideally we'd strip things like punctuation
+    here, but instead we're just being lazy and lowercasing all input strings.
+    '''
     return text.lower()
 
 ########## MAIN ##########

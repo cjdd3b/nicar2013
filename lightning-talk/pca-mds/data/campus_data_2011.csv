@@ -1,0 +1,229 @@
+"instname","murder","manslaughter","forcible","nonforce","robbery","agg_aslt","burglary","vehicle","arson"
+"American River College",0,0,1,2,3,2,6,8,0
+"Arizona State University",0,0,17,1,11,27,90,17,11
+"Ashford University",0,0,2,0,0,0,1,0,0
+"Auburn University",0,0,1,0,2,0,22,3,0
+"Austin Community College District",0,0,0,0,0,1,2,0,0
+"Ball State University",0,0,8,0,1,0,31,0,0
+"Boston University",0,0,6,0,2,3,60,2,0
+"Brigham Young University-Provo",0,0,0,0,0,1,10,3,4
+"Broward College",0,0,0,0,3,2,6,10,0
+"California State Polytechnic University-Pomona",0,0,7,0,2,0,23,15,0
+"California State University-Fresno",0,0,1,0,0,7,29,19,1
+"California State University-Fullerton",0,0,0,0,1,7,6,14,0
+"California State University-Long Beach",0,0,3,0,3,1,24,5,0
+"California State University-Los Angeles",0,0,1,0,3,2,5,24,0
+"California State University-Northridge",0,0,1,0,5,6,34,15,0
+"California State University-Sacramento",0,0,2,0,3,0,12,4,5
+"Capella University",0,0,0,0,0,0,0,0,0
+"Central Michigan University",0,0,5,0,1,2,15,1,1
+"Central New Mexico Community College",0,0,3,0,0,9,3,4,0
+"Central Texas College",0,0,0,0,0,1,0,0,0
+"Cerritos College",0,0,1,0,1,1,3,16,0
+"City College of San Francisco",0,0,1,0,4,1,7,4,0
+"College of DuPage",0,0,0,0,2,0,5,0,1
+"College of Southern Nevada",0,0,2,0,2,0,1,3,0
+"Collin County Community College District",0,0,0,0,0,0,4,0,0
+"Colorado State University-Fort Collins",0,0,4,0,1,0,16,1,3
+"Columbia University in the City of New York",0,0,4,0,1,4,25,0,1
+"Columbus State Community College",0,0,0,0,0,0,1,0,0
+"Community College of Allegheny County",0,0,0,0,1,0,2,1,0
+"Cornell University",0,0,7,0,0,0,13,0,2
+"CUNY Borough of Manhattan Community College",0,0,2,0,0,2,2,0,0
+"CUNY Hunter College",0,0,0,0,2,0,7,0,1
+"CUNY Queens College",0,0,0,0,0,0,16,0,0
+"Cuyahoga Community College District",0,0,3,0,3,0,2,7,0
+"De Anza College",0,0,0,0,0,0,9,2,0
+"Delgado Community College",0,0,0,0,0,4,12,3,0
+"DePaul University",0,0,1,0,0,0,15,0,0
+"Des Moines Area Community College",0,0,0,0,0,1,1,0,0
+"DeVry University-Illinois",0,0,0,0,0,0,0,0,0
+"Diablo Valley College",0,0,0,0,1,1,1,4,0
+"Drexel University",0,0,5,0,0,0,50,0,0
+"East Carolina University",0,0,9,0,4,2,17,2,0
+"East Los Angeles College",0,0,0,0,1,1,7,12,0
+"Eastern Michigan University",0,0,4,0,2,1,13,2,7
+"El Camino Community College District",0,0,0,0,1,2,2,13,2
+"El Paso Community College",0,0,0,0,0,0,3,19,0
+"Everest University-South Orlando",0,0,0,0,0,0,0,2,0
+"Excelsior College",0,0,0,0,0,0,0,0,0
+"Florida Atlantic University",0,0,1,0,1,0,22,13,3
+"Florida International University",0,0,3,0,3,4,42,17,0
+"Florida State College at Jacksonville",0,0,0,0,1,2,1,1,0
+"Florida State University",0,1,2,0,8,8,67,10,1
+"Fresno City College",0,0,0,0,1,2,33,10,7
+"Front Range Community College",0,0,0,0,0,0,0,3,0
+"Full Sail University",0,0,0,0,2,2,0,3,0
+"George Mason University",0,0,8,0,0,0,31,0,0
+"George Washington University",0,0,16,0,1,4,45,2,1
+"Georgia Institute of Technology-Main Campus",0,0,5,0,5,3,18,15,0
+"Georgia Perimeter College",0,0,0,0,2,0,0,4,0
+"Georgia Southern University",0,0,3,0,2,0,10,0,0
+"Georgia State University",0,0,4,0,4,2,8,2,0
+"Glendale Community College",0,0,0,0,0,1,2,10,0
+"Grand Canyon University",0,0,1,0,0,0,10,0,0
+"Grand Valley State University",0,0,2,0,0,0,6,0,1
+"Harrisburg Area Community College-Harrisburg",0,0,1,0,1,2,2,1,0
+"Harvard University",0,0,21,0,1,7,28,3,0
+"Hillsborough Community College",0,0,0,0,0,0,4,1,0
+"Houston Community College",0,0,0,0,1,6,36,14,0
+"Illinois State University",0,0,2,0,1,21,26,2,1
+"Indiana University-Bloomington",0,0,11,0,3,12,89,18,3
+"Indiana University-Purdue University-Indianapolis",0,0,2,0,3,7,51,10,1
+"Instituto de Banca y Comercio Inc",0,0,0,0,19,1,4,0,0
+"Iowa State University",0,0,6,0,1,8,47,2,3
+"Ivy Tech Community College-Central Indiana",0,0,0,0,0,0,1,0,0
+"Johns Hopkins University",0,0,0,0,0,0,1,2,0
+"Johnson County Community College",0,0,1,0,0,1,14,3,0
+"Kansas State University",0,0,7,0,0,2,22,2,0
+"Kaplan University-Davenport Campus",0,0,0,0,0,0,0,0,0
+"Kennesaw State University",0,0,2,0,0,0,34,3,0
+"Kent State University at Kent",0,0,3,0,1,1,17,1,1
+"Lansing Community College",0,0,0,0,0,1,60,0,0
+"Liberty University",0,0,4,0,2,1,5,1,2
+"Lone Star College System",0,0,0,1,1,1,1,1,0
+"Long Beach City College",0,0,0,0,1,1,13,19,0
+"Los Angeles City College",0,0,0,0,1,0,3,0,0
+"Los Angeles Pierce College",0,0,4,0,4,0,1,1,0
+"Louisiana State University and Agricultural & Mechanical College",0,0,2,0,9,9,47,10,3
+"Macomb Community College",0,0,0,0,0,0,0,3,0
+"Mesa Community College",0,0,0,0,0,4,1,0,0
+"Metropolitan State College of Denver",0,0,1,0,0,2,66,7,0
+"Miami Dade College",0,0,0,0,5,2,0,36,0
+"Michigan State University",0,0,15,0,1,10,77,9,0
+"Middle Tennessee State University",0,0,4,0,2,5,30,5,0
+"Mississippi State University",0,0,1,0,0,1,56,2,1
+"Missouri State University-Springfield",0,0,0,0,0,0,3,6,0
+"Montgomery College",0,0,4,0,1,2,3,5,0
+"Mt. San Antonio College",0,0,1,0,0,3,6,5,0
+"Nassau Community College",0,0,1,0,0,0,5,13,0
+"New York University",0,0,1,0,0,0,35,0,0
+"North Carolina State University at Raleigh",0,0,7,0,6,9,41,12,0
+"Northeastern University",0,0,6,0,3,5,17,0,0
+"Northern Arizona University",0,0,13,0,3,5,35,2,1
+"Northern Illinois University",0,0,4,0,0,1,22,0,2
+"Northern Virginia Community College",0,0,2,0,3,2,1,0,0
+"Northwestern University",0,0,3,0,3,0,57,5,0
+"Nova Southeastern University",0,0,2,1,0,0,5,1,0
+"Oakland Community College",0,0,2,0,0,0,3,5,0
+"Ohio State University-Main Campus",0,0,28,0,7,0,22,8,6
+"Ohio University-Main Campus",0,0,8,0,1,1,21,2,6
+"Oklahoma State University-Main Campus",0,0,11,0,0,1,45,1,0
+"Old Dominion University",0,0,7,0,6,2,34,6,0
+"Orange Coast College",0,0,1,0,0,0,7,1,0
+"Oregon State University",0,0,3,0,1,3,36,28,1
+"Palm Beach State College",0,0,0,0,0,0,0,3,0
+"Palomar College",0,0,1,0,0,2,0,0,0
+"Pasadena City College",0,0,2,0,2,0,2,8,1
+"Pennsylvania State University-Main Campus",0,0,24,0,2,6,112,1,11
+"Pima Community College",0,0,0,0,3,2,4,16,0
+"Portland Community College",0,0,5,0,2,6,5,3,0
+"Portland State University",0,0,8,0,1,0,41,3,1
+"Purdue University-Main Campus",0,0,7,0,1,2,49,4,2
+"Richland College",0,0,0,0,0,1,0,2,1
+"Rio Salado College",0,0,0,0,0,0,0,0,0
+"Rutgers University-New Brunswick",0,0,12,0,0,5,65,7,3
+"Sacramento City College",0,0,1,0,1,0,1,12,0
+"Saddleback College",0,0,1,0,0,6,3,0,1
+"Saint Louis Community College",0,0,0,0,0,0,2,5,1
+"Salt Lake Community College",0,0,1,0,1,0,9,2,0
+"San Antonio College",0,0,1,0,1,2,0,11,0
+"San Diego Mesa College",0,0,0,0,0,0,1,8,0
+"San Diego State University",0,0,6,0,2,4,42,39,0
+"San Francisco State University",0,0,4,0,2,0,41,8,1
+"San Jacinto Community College",0,0,0,0,0,0,6,4,0
+"San Jose State University",2,0,3,0,2,13,24,13,4
+"Santa Ana College",0,0,0,0,2,1,3,3,0
+"Santa Monica College",0,0,0,0,2,0,8,1,0
+"Santa Rosa Junior College",0,0,0,0,1,1,1,0,2
+"Sinclair Community College",0,0,0,0,0,0,2,0,0
+"South Texas College",0,0,0,0,0,2,0,0,0
+"Southwestern College",0,0,0,0,0,0,0,6,0
+"St John's University-New York",0,0,5,0,1,0,15,1,7
+"St Petersburg College",0,0,0,1,0,0,0,1,0
+"Stony Brook University",0,0,13,0,2,2,96,7,2
+"Suffolk County Community College",0,0,0,0,0,0,0,0,0
+"Syracuse University",0,0,12,0,0,4,36,0,1
+"Tarrant County College District",0,0,0,0,0,1,1,8,0
+"Temple University",0,0,4,0,4,4,5,0,0
+"Texas A & M University-College Station",0,0,3,0,1,0,29,3,1
+"Texas State University-San Marcos",0,0,3,0,1,5,44,3,1
+"Texas Tech University",0,0,3,0,1,3,21,6,1
+"The Community College of Baltimore County",0,0,1,0,7,0,0,1,1
+"The University of Alabama",0,0,3,0,5,3,68,2,1
+"The University of Tennessee",0,0,4,0,1,0,30,10,0
+"The University of Texas at Arlington",0,0,2,0,2,2,36,7,0
+"The University of Texas at Austin",0,0,2,0,0,6,51,2,3
+"The University of Texas at El Paso",0,0,5,0,1,3,28,21,0
+"The University of Texas at San Antonio",0,0,2,0,3,6,13,5,0
+"Thomas Edison State College",0,0,0,0,0,0,0,0,0
+"Tidewater Community College",0,0,0,0,0,0,7,3,0
+"Towson University",0,0,7,0,2,3,11,0,0
+"Troy University",0,0,0,0,0,0,8,2,0
+"Tulsa Community College",0,0,0,0,0,0,29,4,0
+"University at Buffalo",0,0,3,0,3,4,73,6,1
+"University of Akron Main Campus",0,0,5,0,4,1,5,13,0
+"University of Arizona",1,0,3,0,0,0,43,6,2
+"University of Arkansas",0,0,5,0,1,2,46,16,0
+"University of California-Berkeley",0,0,30,1,9,7,40,14,6
+"University of California-Davis",0,0,24,0,5,4,86,13,1
+"University of California-Irvine",0,0,6,1,2,1,52,5,1
+"University of California-Los Angeles",0,0,8,0,2,4,118,7,0
+"University of California-Riverside",0,0,5,0,4,1,32,23,1
+"University of California-San Diego",0,0,6,0,0,6,29,18,4
+"University of California-Santa Barbara",0,0,7,1,1,3,40,4,3
+"University of Central Florida",0,0,6,0,10,12,32,35,0
+"University of Cincinnati-Main Campus",0,0,9,0,5,4,15,7,1
+"University of Colorado Boulder",0,0,6,0,5,8,42,10,1
+"University of Colorado Denver",0,0,1,0,0,2,75,11,0
+"University of Connecticut",0,0,8,0,3,3,54,0,3
+"University of Delaware",0,0,3,1,4,3,26,1,1
+"University of Florida",0,0,10,0,1,6,27,14,0
+"University of Georgia",0,0,5,0,1,2,53,5,3
+"University of Hawaii at Manoa",0,0,12,0,2,16,64,16,0
+"University of Houston",0,0,6,0,1,3,74,22,0
+"University of Illinois at Chicago",1,0,9,0,6,8,14,0,0
+"University of Illinois at Urbana-Champaign",0,0,5,0,4,4,30,5,4
+"University of Iowa",0,0,10,0,0,6,20,2,0
+"University of Kansas",0,0,4,0,1,9,39,7,1
+"University of Kentucky",0,0,5,0,3,4,13,12,0
+"University of Louisville",0,0,0,0,0,0,10,0,0
+"University of Maryland-College Park",0,0,4,0,4,4,64,37,1
+"University of Maryland-University College",0,0,0,0,1,0,0,0,0
+"University of Massachusetts Amherst",0,0,13,0,1,5,32,1,0
+"University of Memphis",0,0,2,0,1,5,39,5,0
+"University of Michigan-Ann Arbor",0,0,14,0,4,8,37,12,4
+"University of Minnesota-Twin Cities",0,0,12,0,5,2,45,6,0
+"University of Missouri-Columbia",0,0,11,0,1,8,10,1,1
+"University of Nebraska-Lincoln",0,0,3,0,0,1,7,3,1
+"University of Nevada-Las Vegas",0,0,1,0,5,1,23,34,1
+"University of New Mexico-Main Campus",0,0,2,0,4,10,19,57,0
+"University of North Carolina at Chapel Hill",0,0,12,0,3,3,36,3,1
+"University of North Carolina at Charlotte",0,0,2,0,6,1,65,9,0
+"University of North Texas",0,0,2,0,0,1,24,3,0
+"University of Oklahoma Norman Campus",0,0,13,0,0,1,29,10,2
+"University of Oregon",0,0,8,0,0,3,35,3,0
+"University of Pennsylvania",0,0,12,0,9,2,19,1,1
+"University of Pittsburgh-Pittsburgh Campus",0,0,4,0,5,3,25,2,0
+"University of South Carolina-Columbia",0,0,1,0,2,8,113,22,0
+"University of South Florida-Main Campus",0,0,1,0,1,8,48,9,0
+"University of Southern California",0,0,8,0,5,1,50,4,2
+"University of Toledo",0,0,2,0,1,4,118,0,4
+"University of Utah",0,0,5,0,0,3,90,0,0
+"University of Virginia-Main Campus",0,0,13,0,1,0,54,16,0
+"University of Washington-Seattle Campus",0,0,5,0,3,3,40,1,0
+"University of Wisconsin-Madison",0,0,24,0,2,3,32,3,1
+"University of Wisconsin-Milwaukee",0,0,3,0,0,0,39,0,1
+"Utah State University",0,0,3,0,0,0,12,1,0
+"Utah Valley University",0,0,3,0,0,0,7,5,0
+"Valencia College",0,0,0,0,0,2,1,3,0
+"Virginia Commonwealth University",0,0,6,0,3,5,15,4,0
+"Virginia Polytechnic Institute and State University",1,0,14,0,0,3,30,3,0
+"Walden University",0,0,0,0,0,0,0,0,0
+"Washington State University",0,0,8,0,0,2,28,5,0
+"Wayne County Community College District",0,0,1,0,0,0,0,5,0
+"Wayne State University",0,0,2,0,3,2,18,8,2
+"Weber State University",0,0,2,0,0,0,11,0,0
+"West Virginia University",0,0,4,0,1,7,22,4,1
+"Western Kentucky University",0,0,5,0,3,2,32,1,0
+"Western Michigan University",0,0,3,1,0,2,13,1,2

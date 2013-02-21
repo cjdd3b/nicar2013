@@ -1,3 +1,17 @@
+'''
+nn.py
+
+Although it's often used as a classifier, this search implementation of the
+Nearest Neighbors algorithm is designed only to return the K vectors that are
+closest to some input query vector in Euclidean space. It's a great way to find
+items that are similar to the input query. It's also vectorized (which is to say it
+uses matrices rather than loops for its computations), so it's quite fast.
+
+Adapted from this: http://glowingpython.blogspot.com/2012/04/k-nearest-neighbor-search.html
+
+For the example below, we'll look at some random economic data from various California
+cities and counties and identify the areas that are most similar to the state as a whole.
+'''
 import numpy, csv
 
 ########## HELPER FUNCTIONS ##########

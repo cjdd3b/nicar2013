@@ -26,15 +26,10 @@ from sklearn.cluster import DBSCAN
 
 # Pull in our data using DictReader
 labels = ['id', 'date_time', 'incident_num', 'location', 'apt_lot', 'type_id', 'lat', 'lng']
-data = csv.DictReader(open('data/columbia_crime_small.csv', 'r').readlines()[1:], labels)
+data = csv.DictReader(open('data/columbia_crime.csv', 'r').readlines()[1:], labels)
 
 # Separate out the coordinates, which is the only data we care about for now
-coords = []
-for d in data:
-    try:
-        coords.append((float(d['lat']), float(d['lng'])))
-    except ValueError: # If the coordinates are messed up, skip them
-        continue
+coords = [(float(d['lat']), float(d['lng'])) for d in data if len(d['lat']) > 0]
 
 # Scikit-learn's implemenetation of DBSCAN requires the input of a distance matrix showing pairwise
 # distances between all points in the dataset.

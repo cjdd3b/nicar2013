@@ -26,7 +26,7 @@ from sklearn.cluster import DBSCAN
 
 # Pull in our data using DictReader
 labels = ['id', 'date_time', 'incident_num', 'location', 'apt_lot', 'type_id', 'lat', 'lng']
-data = csv.DictReader(open('data/columbia_crime.csv', 'r').readlines()[1:], labels)
+data = csv.DictReader(open('data/columbia_crime_small.csv', 'r').readlines()[1:], labels)
 
 # Separate out the coordinates, which is the only data we care about for now
 coords = []
@@ -47,6 +47,6 @@ db = DBSCAN(eps=0.03).fit(distance_matrix)
 # And now we print out the results in the form cluster_id,lat,lng. You can save this to a file and import
 # directly into a mapping program or Fusion Tables if you want to visualize it.
 for k in set(db.labels_):
-    class_members = [index[0] for index in np.argwhere(labels == k)]
+    class_members = [index[0] for index in np.argwhere(db.labels_ == k)]
     for index in class_members:
         print '%s,%s' % (int(k), '{0},{1}'.format(*coords[index]))

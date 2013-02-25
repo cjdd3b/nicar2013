@@ -49,7 +49,7 @@ Machine learning is heavy on statistics and linear algebra. You might have some 
 - Intuition behind [dimensionality reduction](https://class.coursera.org/ml/lecture/preview_view/82) -- Introduces the concept of dimensionality reduction, which is pretty foreign in the CAR world.
 - Basics of [Principal Component Analysis](https://class.coursera.org/ml/lecture/preview_view/85) -- Introduces a simple dimensionality reduction trick that has some useful applications for data exploration in CAR.
 
-Equally important is knowing how to evaluate the results of your algorithms. The following three lectures provide some of the most valuable machine learning material you will ever find. Watch them before you go too far down the rabbit hole.
+Equally important is knowing how to evaluate the results of your algorithms. The following lectures offer some of the most valuable practical machine learning advice you will ever hear. Watch them before you go too far down the rabbit hole.
 
 - [Model selection and train/validation/test sets](https://class.coursera.org/ml/lecture/preview_view/610)
 - [Bias vs. variance](https://class.coursera.org/ml/lecture/preview_view/62)
